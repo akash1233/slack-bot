@@ -1,0 +1,4 @@
+---
+applications:
+- name: sqinsightbot
+  buildpack: https://github.com/cloudfoundry/nodejs-buildpack

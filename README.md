@@ -4,7 +4,7 @@
 
 Utility lib for creating bots. So far only tested with Slack.
 
-For usage sample code see `examples/sample_bot.js`
+For usage sample code see `examples/sqinsight_bot.js`
 
 ## Steps for using lib
 

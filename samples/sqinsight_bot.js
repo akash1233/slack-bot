@@ -37,8 +37,8 @@ apiai.all(function (message, resp, bot) {
     console.log(resp.result.action);
 });
 
-apiai
-    .action('smalltalk.greetings', function (message, resp, bot) {
+apiai.
+ all( function (message, resp, bot) {
         let responseText = resp.result.fulfillment.speech;
         bot.reply(message, responseText);
     })
